@@ -1,4 +1,3 @@
-# employees.py - Object-Oriented version
 
 class Employee:
     def __init__(self, emp_id, name, title, salary):
@@ -11,7 +10,6 @@ class Employee:
         return f"Employee(id={self.id}, name='{self.name}', title='{self.title}', salary={self.salary})"
 
 
-# List to store Employee objects
 employees = []
 
 def add_employee(emp_id, name, title, salary):
@@ -42,7 +40,6 @@ def delete_employee(emp_id):
         print('Employee Not Found.')
 
 
-# Test the functions
 add_employee(101, 'Pratik', 'Software Engineer', 56000)
 add_employee(102, 'Abhishek', 'Software Automation Engineer', 40000)
 add_employee(103, 'Rishabh', 'Software Automation Engineer', 99000)
@@ -58,10 +55,10 @@ else:
     print('Employee Not Found.')
 
 update_employee(104, 99200)
-print("\nAfter Update:", employees)
+print("After Update:", employees)
 
 add_employee(106, 'Mahesh', 'Python Trainer', 4200)
-print("\nAfter Adding Mahesh:", employees)
+print("After Adding Mahesh:", employees)
 
 delete_employee(106)
-print("\nAfter Deleting Mahesh:", employees)
+print("After Deleting Mahesh:", employees)
