@@ -21,7 +21,7 @@ Base.metadata.create_all(engine)
 #setup the things for the transactions(create, read, update, delete)
 Sessionlocal = sessionmaker(bind=engine)
 session = Sessionlocal()
-
+'''
 #crudops
 dravid = Employee(name = 'Dravid', job_title = 'Batsman', salary = 1200)
 session.add(dravid)
@@ -41,6 +41,17 @@ abhi = session.query(Employee).filter_by(name='abhishek').first()
 print(abhi)
 
 abhishek.salary = 1300
+session.commit()
+'''
+
+mahesh = Employee(name = 'Mahesh', job_title = 'Allrounder', salary = 1500)
+session.add(mahesh)
+session.commit()
+
+employees = session.query(Employee).all()
+print(employees)
+
+session.delete(mahesh)
 session.commit()
 
 employees = session.query(Employee).all()
