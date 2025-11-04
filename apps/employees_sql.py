@@ -26,4 +26,3 @@ session = Sessionlocal()
 dravid = Employee(name = 'Dravid', job_title = 'Batsman', salary = 1200)
 session.add(dravid)
 session.commit()
-
