@@ -1,0 +1,1 @@
+list of words:['ALL', 'THE', 'EBST']tuple of words:('ALL', 'THE', 'EBST')

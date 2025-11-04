@@ -1,0 +1,1 @@
+Sorted list of names:['abhishek', 'cisco', 'mahesh', 'pratik']Tuple of names:('abhishek', 'cisco', 'mahesh', 'pratik')
