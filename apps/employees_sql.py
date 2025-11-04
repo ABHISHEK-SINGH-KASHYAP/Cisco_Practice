@@ -26,3 +26,22 @@ session = Sessionlocal()
 dravid = Employee(name = 'Dravid', job_title = 'Batsman', salary = 1200)
 session.add(dravid)
 session.commit()
+
+jaiswal = Employee(name = 'Jaiswal', job_title = 'Batsman', salary = 1000)
+session.add(jaiswal)
+
+abhishek = Employee(name = 'abhishek', job_title = 'Bowler', salary = 1100)
+session.add(abhishek)
+session.commit()
+
+employees = session.query(Employee).all()
+print(employees)
+
+abhi = session.query(Employee).filter_by(name='abhishek').first()
+print(abhi)
+
+abhishek.salary = 1300
+session.commit()
+
+employees = session.query(Employee).all()
+print(employees)
