@@ -1,0 +1,40 @@
+2025-11-04 11:55:43,557 [INFO] Employee Not Found.
+2025-11-04 11:55:43,558 [INFO] Employee Not Found.
+2025-11-04 11:55:43,558 [INFO] Employee Not Found.
+2025-11-04 11:55:43,558 [INFO] Employee Not Found.
+2025-11-04 11:55:43,558 [INFO] Employee Not Found.
+2025-11-04 11:55:43,558 [INFO] Employee Found Successfully
+2025-11-04 11:56:59,396 [INFO] Employee Not Found.
+2025-11-04 11:56:59,397 [INFO] Employee Not Found.
+2025-11-04 11:56:59,397 [INFO] Employee Not Found.
+2025-11-04 11:56:59,397 [INFO] Employee Not Found.
+2025-11-04 11:56:59,397 [INFO] Employee Not Found.
+2025-11-04 11:56:59,397 [INFO] Employee Not Found.
+2025-11-04 12:05:37,575 [INFO] Employee Not Found.
+2025-11-04 12:05:37,576 [INFO] Employee Not Found.
+2025-11-04 12:05:37,576 [INFO] Employee Not Found.
+2025-11-04 12:05:37,576 [INFO] Employee Not Found.
+2025-11-04 12:05:37,577 [INFO] Employee Not Found.
+2025-11-04 12:05:37,577 [INFO] Employee Not Found.
+2025-11-04 12:05:37,578 [INFO] Employee Added Successfully
+2025-11-04 12:06:26,780 [INFO] Employee Not Found.
+2025-11-04 12:06:26,780 [INFO] Employee Not Found.
+2025-11-04 12:06:26,780 [INFO] Employee Not Found.
+2025-11-04 12:06:26,780 [INFO] Employee Not Found.
+2025-11-04 12:06:26,780 [INFO] Employee Not Found.
+2025-11-04 12:06:26,780 [INFO] Employee Not Found.
+2025-11-04 12:06:26,780 [INFO] Employee Not Found.
+2025-11-04 12:06:26,780 [DEBUG] Employees added to list: [[id = 101, name = Pratik, job_title = Software Engineer, salary = 56000], [id = 102, name = Abhishek, job_title = Software Automation Engineer, salary = 40000], [id = 103, name = Rishabh, job_title = Software Automation Engineer, salary = 99000], [id = 104, name = Nihar, job_title = Software Automation Engineer, salary = 99], [id = 105, name = Divya, job_title = Business Analyst, salary = 45000], [id = 101, name = abhishek, job_title = cet, salary = 990000], [id = 106, name = dhoni, job_title = farmer, salary = 3], [id = 107, name = dhoni, job_title = old cricketer, salary = 4]]
+2025-11-04 12:06:26,781 [DEBUG] Employees written to DB file
+2025-11-04 12:06:26,781 [INFO] Employee Added Successfully
+2025-11-04 12:17:18,278 [INFO] Employee Not Found.
+2025-11-04 12:17:18,278 [INFO] Employee Not Found.
+2025-11-04 12:17:18,278 [INFO] Employee Not Found.
+2025-11-04 12:17:18,278 [INFO] Employee Not Found.
+2025-11-04 12:17:18,278 [INFO] Employee Not Found.
+2025-11-04 12:17:18,279 [INFO] Employee Not Found.
+2025-11-04 12:17:18,279 [INFO] Employee Not Found.
+2025-11-04 12:17:18,279 [INFO] Employee Not Found.
+2025-11-04 12:17:18,279 [DEBUG] Employees added to list: [[id = 101, name = Pratik, job_title = Software Engineer, salary = 56000], [id = 102, name = Abhishek, job_title = Software Automation Engineer, salary = 40000], [id = 103, name = Rishabh, job_title = Software Automation Engineer, salary = 99000], [id = 104, name = Nihar, job_title = Software Automation Engineer, salary = 99], [id = 105, name = Divya, job_title = Business Analyst, salary = 45000], [id = 101, name = abhishek, job_title = cet, salary = 990000], [id = 106, name = dhoni, job_title = farmer, salary = 3], [id = 107, name = dhoni, job_title = old cricketer, salary = 4], [id = 108, name = kohli, job_title = little's, salary = 5]]
+2025-11-04 12:17:18,280 [DEBUG] Employees written to DB file
+2025-11-04 12:17:18,280 [INFO] Employee Added Successfully
