@@ -1,0 +1,259 @@
+2025-11-06 10:52:38,707 [INFO] BEGIN (implicit)
+2025-11-06 10:52:38,708 [INFO] PRAGMA main.table_info("employees")
+2025-11-06 10:52:38,708 [INFO] [raw sql] ()
+2025-11-06 10:52:38,710 [INFO] PRAGMA temp.table_info("employees")
+2025-11-06 10:52:38,710 [INFO] [raw sql] ()
+2025-11-06 10:52:38,711 [INFO] 
+CREATE TABLE employees (
+	id INTEGER NOT NULL, 
+	name VARCHAR(255) NOT NULL, 
+	job_title VARCHAR(150) NOT NULL, 
+	salary FLOAT NOT NULL, 
+	PRIMARY KEY (id)
+)
+
+
+2025-11-06 10:52:38,712 [INFO] [no key 0.00046s] ()
+2025-11-06 10:52:38,723 [INFO] COMMIT
+2025-11-06 10:52:38,770 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-06 10:52:38,770 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-06 10:52:38,771 [INFO]  * Restarting with stat
+2025-11-06 10:52:39,455 [INFO] BEGIN (implicit)
+2025-11-06 10:52:39,456 [INFO] PRAGMA main.table_info("employees")
+2025-11-06 10:52:39,456 [INFO] [raw sql] ()
+2025-11-06 10:52:39,458 [INFO] COMMIT
+2025-11-06 10:52:39,474 [WARNING]  * Debugger is active!
+2025-11-06 10:52:39,476 [INFO]  * Debugger PIN: 198-478-469
+2025-11-06 10:56:54,780 [INFO] BEGIN (implicit)
+2025-11-06 10:56:54,782 [INFO] PRAGMA main.table_info("employees")
+2025-11-06 10:56:54,783 [INFO] [raw sql] ()
+2025-11-06 10:56:54,784 [INFO] COMMIT
+2025-11-06 10:56:54,811 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-06 10:56:54,811 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-06 10:56:54,812 [INFO]  * Restarting with stat
+2025-11-06 10:56:55,498 [INFO] BEGIN (implicit)
+2025-11-06 10:56:55,498 [INFO] PRAGMA main.table_info("employees")
+2025-11-06 10:56:55,499 [INFO] [raw sql] ()
+2025-11-06 10:56:55,500 [INFO] COMMIT
+2025-11-06 10:56:55,517 [WARNING]  * Debugger is active!
+2025-11-06 10:56:55,519 [INFO]  * Debugger PIN: 198-478-469
+2025-11-06 11:00:15,301 [INFO]  * Detected change in 'c:\\Users\\abkashy2\\OneDrive - Cisco\\Documents\\GitHub\\Cisco_Practice\\251106\\hrms_erich\\mailer\\config.py', reloading
+2025-11-06 11:00:15,403 [INFO]  * Restarting with stat
+2025-11-06 11:00:16,060 [INFO] BEGIN (implicit)
+2025-11-06 11:00:16,061 [INFO] PRAGMA main.table_info("employees")
+2025-11-06 11:00:16,061 [INFO] [raw sql] ()
+2025-11-06 11:00:16,063 [INFO] COMMIT
+2025-11-06 11:00:16,077 [WARNING]  * Debugger is active!
+2025-11-06 11:00:16,079 [INFO]  * Debugger PIN: 198-478-469
+2025-11-06 11:29:32,869 [INFO] BEGIN (implicit)
+2025-11-06 11:29:32,870 [INFO] PRAGMA main.table_info("employees")
+2025-11-06 11:29:32,870 [INFO] [raw sql] ()
+2025-11-06 11:29:32,872 [INFO] COMMIT
+2025-11-06 11:29:32,901 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-06 11:29:32,901 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-06 11:29:32,902 [INFO]  * Restarting with stat
+2025-11-06 11:29:33,556 [INFO] BEGIN (implicit)
+2025-11-06 11:29:33,557 [INFO] PRAGMA main.table_info("employees")
+2025-11-06 11:29:33,557 [INFO] [raw sql] ()
+2025-11-06 11:29:33,558 [INFO] COMMIT
+2025-11-06 11:29:33,572 [WARNING]  * Debugger is active!
+2025-11-06 11:29:33,574 [INFO]  * Debugger PIN: 198-478-469
+2025-11-06 11:31:01,925 [INFO]  * Detected change in 'c:\\Users\\abkashy2\\OneDrive - Cisco\\Documents\\GitHub\\Cisco_Practice\\251106\\hrms_erich\\mailer\\mail.py', reloading
+2025-11-06 11:31:02,003 [INFO]  * Restarting with stat
+2025-11-06 11:31:02,715 [INFO] BEGIN (implicit)
+2025-11-06 11:31:02,716 [INFO] PRAGMA main.table_info("employees")
+2025-11-06 11:31:02,716 [INFO] [raw sql] ()
+2025-11-06 11:31:02,717 [INFO] COMMIT
+2025-11-06 11:31:02,730 [WARNING]  * Debugger is active!
+2025-11-06 11:31:02,732 [INFO]  * Debugger PIN: 198-478-469
+2025-11-06 11:31:05,762 [INFO]  * Detected change in 'c:\\Users\\abkashy2\\OneDrive - Cisco\\Documents\\GitHub\\Cisco_Practice\\251106\\hrms_erich\\mailer\\mail.py', reloading
+2025-11-06 11:31:05,854 [INFO]  * Restarting with stat
+2025-11-06 11:31:06,574 [INFO] BEGIN (implicit)
+2025-11-06 11:31:06,574 [INFO] PRAGMA main.table_info("employees")
+2025-11-06 11:31:06,575 [INFO] [raw sql] ()
+2025-11-06 11:31:06,576 [INFO] COMMIT
+2025-11-06 11:31:06,702 [WARNING]  * Debugger is active!
+2025-11-06 11:31:06,706 [INFO]  * Debugger PIN: 198-478-469
+2025-11-06 11:31:14,749 [INFO]  * Detected change in 'c:\\Users\\abkashy2\\OneDrive - Cisco\\Documents\\GitHub\\Cisco_Practice\\251106\\hrms_erich\\mailer\\mail.py', reloading
+2025-11-06 11:31:14,832 [INFO]  * Restarting with stat
+2025-11-06 11:31:15,473 [INFO] BEGIN (implicit)
+2025-11-06 11:31:15,474 [INFO] PRAGMA main.table_info("employees")
+2025-11-06 11:31:15,474 [INFO] [raw sql] ()
+2025-11-06 11:31:15,476 [INFO] COMMIT
+2025-11-06 11:31:15,489 [WARNING]  * Debugger is active!
+2025-11-06 11:31:15,490 [INFO]  * Debugger PIN: 198-478-469
+2025-11-06 11:31:17,508 [INFO]  * Detected change in 'c:\\Users\\abkashy2\\OneDrive - Cisco\\Documents\\GitHub\\Cisco_Practice\\251106\\hrms_erich\\mailer\\mail.py', reloading
+2025-11-06 11:31:17,576 [INFO]  * Restarting with stat
+2025-11-06 11:31:18,261 [INFO] BEGIN (implicit)
+2025-11-06 11:31:18,262 [INFO] PRAGMA main.table_info("employees")
+2025-11-06 11:31:18,262 [INFO] [raw sql] ()
+2025-11-06 11:31:18,263 [INFO] COMMIT
+2025-11-06 11:31:18,279 [WARNING]  * Debugger is active!
+2025-11-06 11:31:18,281 [INFO]  * Debugger PIN: 198-478-469
+2025-11-06 11:33:46,944 [INFO]  * Detected change in 'c:\\Users\\abkashy2\\OneDrive - Cisco\\Documents\\GitHub\\Cisco_Practice\\251106\\hrms_erich\\server\\routes.py', reloading
+2025-11-06 11:33:47,157 [INFO]  * Restarting with stat
+2025-11-06 11:33:47,886 [INFO] BEGIN (implicit)
+2025-11-06 11:33:47,887 [INFO] PRAGMA main.table_info("employees")
+2025-11-06 11:33:47,888 [INFO] [raw sql] ()
+2025-11-06 11:33:47,889 [INFO] COMMIT
+2025-11-06 11:33:47,904 [WARNING]  * Debugger is active!
+2025-11-06 11:33:47,906 [INFO]  * Debugger PIN: 198-478-469
+2025-11-06 11:34:05,671 [INFO] BEGIN (implicit)
+2025-11-06 11:34:05,672 [INFO] PRAGMA main.table_info("employees")
+2025-11-06 11:34:05,673 [INFO] [raw sql] ()
+2025-11-06 11:34:05,674 [INFO] COMMIT
+2025-11-06 11:34:05,699 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-06 11:34:05,699 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-06 11:34:05,700 [INFO]  * Restarting with stat
+2025-11-06 11:34:06,364 [INFO] BEGIN (implicit)
+2025-11-06 11:34:06,365 [INFO] PRAGMA main.table_info("employees")
+2025-11-06 11:34:06,365 [INFO] [raw sql] ()
+2025-11-06 11:34:06,366 [INFO] COMMIT
+2025-11-06 11:34:06,382 [WARNING]  * Debugger is active!
+2025-11-06 11:34:06,384 [INFO]  * Debugger PIN: 198-478-469
+2025-11-06 11:34:42,993 [INFO] BEGIN (implicit)
+2025-11-06 11:34:42,994 [INFO] PRAGMA main.table_info("employees")
+2025-11-06 11:34:42,995 [INFO] [raw sql] ()
+2025-11-06 11:34:42,996 [INFO] COMMIT
+2025-11-06 11:34:43,021 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-06 11:34:43,021 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-06 11:34:43,022 [INFO]  * Restarting with stat
+2025-11-06 11:34:43,678 [INFO] BEGIN (implicit)
+2025-11-06 11:34:43,679 [INFO] PRAGMA main.table_info("employees")
+2025-11-06 11:34:43,679 [INFO] [raw sql] ()
+2025-11-06 11:34:43,681 [INFO] COMMIT
+2025-11-06 11:34:43,697 [WARNING]  * Debugger is active!
+2025-11-06 11:34:43,699 [INFO]  * Debugger PIN: 198-478-469
+2025-11-06 11:38:30,697 [INFO] BEGIN (implicit)
+2025-11-06 11:38:30,698 [INFO] PRAGMA main.table_info("employees")
+2025-11-06 11:38:30,698 [INFO] [raw sql] ()
+2025-11-06 11:38:30,699 [INFO] COMMIT
+2025-11-06 11:38:30,729 [INFO] [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2025-11-06 11:38:30,729 [INFO] [33mPress CTRL+C to quit[0m
+2025-11-06 11:38:30,730 [INFO]  * Restarting with stat
+2025-11-06 11:38:31,365 [INFO] BEGIN (implicit)
+2025-11-06 11:38:31,365 [INFO] PRAGMA main.table_info("employees")
+2025-11-06 11:38:31,365 [INFO] [raw sql] ()
+2025-11-06 11:38:31,366 [INFO] COMMIT
+2025-11-06 11:38:31,379 [WARNING]  * Debugger is active!
+2025-11-06 11:38:31,382 [INFO]  * Debugger PIN: 198-478-469
+2025-11-06 11:39:32,769 [INFO] BEGIN (implicit)
+2025-11-06 11:39:32,782 [INFO] INSERT INTO employees (name, job_title, salary) VALUES (?, ?, ?)
+2025-11-06 11:39:32,783 [INFO] [generated in 0.01128s] ('Abhishek', 'OLD COACH', 30000.0)
+2025-11-06 11:39:32,786 [INFO] COMMIT
+2025-11-06 11:39:32,797 [INFO] Employee Added Successfully
+2025-11-06 11:39:32,798 [INFO] BEGIN (implicit)
+2025-11-06 11:39:32,802 [INFO] SELECT employees.id AS employees_id, employees.name AS employees_name, employees.job_title AS employees_job_title, employees.salary AS employees_salary 
+FROM employees 
+WHERE employees.id = ?
+2025-11-06 11:39:32,803 [INFO] [generated in 0.00084s] (1,)
+2025-11-06 11:39:32,807 [INFO] SELECT employees.id AS employees_id, employees.name AS employees_name, employees.job_title AS employees_job_title, employees.salary AS employees_salary 
+FROM employees 
+WHERE employees.id = ?
+ LIMIT ? OFFSET ?
+2025-11-06 11:39:32,808 [INFO] [generated in 0.00123s] (1, 1, 0)
+2025-11-06 11:39:32,809 [INFO] Read employee for given id.
+2025-11-06 11:39:36,845 [INFO] ROLLBACK
+2025-11-06 11:39:36,845 [INFO] 127.0.0.1 - - [06/Nov/2025 11:39:36] "[35m[1mPOST /employees HTTP/1.1[0m" 201 -
+2025-11-06 11:40:17,142 [INFO] BEGIN (implicit)
+2025-11-06 11:40:17,143 [INFO] SELECT employees.id AS employees_id, employees.name AS employees_name, employees.job_title AS employees_job_title, employees.salary AS employees_salary 
+FROM employees
+2025-11-06 11:40:17,144 [INFO] [generated in 0.00104s] ()
+2025-11-06 11:40:17,146 [INFO] Read all employees.
+2025-11-06 11:40:17,147 [INFO] ROLLBACK
+2025-11-06 11:40:17,148 [INFO] 127.0.0.1 - - [06/Nov/2025 11:40:17] "GET /employees HTTP/1.1" 200 -
+2025-11-06 11:40:47,316 [INFO] 127.0.0.1 - - [06/Nov/2025 11:40:47] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-11-06 11:40:59,038 [INFO] 127.0.0.1 - - [06/Nov/2025 11:40:59] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-11-06 11:41:00,180 [INFO] 127.0.0.1 - - [06/Nov/2025 11:41:00] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-11-06 11:41:00,344 [INFO] 127.0.0.1 - - [06/Nov/2025 11:41:00] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-11-06 11:41:01,329 [INFO] 127.0.0.1 - - [06/Nov/2025 11:41:01] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-11-06 11:41:01,739 [INFO] 127.0.0.1 - - [06/Nov/2025 11:41:01] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-11-06 11:41:01,951 [INFO] 127.0.0.1 - - [06/Nov/2025 11:41:01] "[33mGET /employees/ HTTP/1.1[0m" 404 -
+2025-11-06 11:41:58,305 [INFO] BEGIN (implicit)
+2025-11-06 11:41:58,307 [INFO] SELECT employees.id AS employees_id, employees.name AS employees_name, employees.job_title AS employees_job_title, employees.salary AS employees_salary 
+FROM employees
+2025-11-06 11:41:58,308 [INFO] [cached since 101.2s ago] ()
+2025-11-06 11:41:58,309 [INFO] Read all employees.
+2025-11-06 11:41:58,309 [INFO] ROLLBACK
+2025-11-06 11:41:58,310 [INFO] 127.0.0.1 - - [06/Nov/2025 11:41:58] "GET /employees HTTP/1.1" 200 -
+2025-11-06 11:42:45,125 [INFO] BEGIN (implicit)
+2025-11-06 11:42:45,127 [INFO] INSERT INTO employees (name, job_title, salary) VALUES (?, ?, ?)
+2025-11-06 11:42:45,129 [INFO] [cached since 192.4s ago] ('dravid', 'batsman', 120.0)
+2025-11-06 11:42:45,133 [INFO] COMMIT
+2025-11-06 11:42:45,146 [INFO] Employee Added Successfully
+2025-11-06 11:42:45,148 [INFO] BEGIN (implicit)
+2025-11-06 11:42:45,149 [INFO] SELECT employees.id AS employees_id, employees.name AS employees_name, employees.job_title AS employees_job_title, employees.salary AS employees_salary 
+FROM employees 
+WHERE employees.id = ?
+2025-11-06 11:42:45,154 [INFO] [cached since 192.4s ago] (2,)
+2025-11-06 11:42:45,158 [INFO] SELECT employees.id AS employees_id, employees.name AS employees_name, employees.job_title AS employees_job_title, employees.salary AS employees_salary 
+FROM employees 
+WHERE employees.id = ?
+ LIMIT ? OFFSET ?
+2025-11-06 11:42:45,159 [INFO] [cached since 192.4s ago] (2, 1, 0)
+2025-11-06 11:42:45,161 [INFO] Read employee for given id.
+2025-11-06 11:42:48,640 [INFO] ROLLBACK
+2025-11-06 11:42:48,641 [INFO] 127.0.0.1 - - [06/Nov/2025 11:42:48] "[35m[1mPOST /employees HTTP/1.1[0m" 201 -
+2025-11-06 11:46:22,296 [INFO] BEGIN (implicit)
+2025-11-06 11:46:22,297 [INFO] SELECT employees.id AS employees_id, employees.name AS employees_name, employees.job_title AS employees_job_title, employees.salary AS employees_salary 
+FROM employees
+2025-11-06 11:46:22,297 [INFO] [cached since 365.2s ago] ()
+2025-11-06 11:46:22,298 [INFO] Read all employees.
+2025-11-06 11:46:22,298 [INFO] ROLLBACK
+2025-11-06 11:46:22,298 [INFO] 127.0.0.1 - - [06/Nov/2025 11:46:22] "GET /employees HTTP/1.1" 200 -
+2025-11-06 11:46:30,921 [INFO] BEGIN (implicit)
+2025-11-06 11:46:30,922 [INFO] SELECT employees.id AS employees_id, employees.name AS employees_name, employees.job_title AS employees_job_title, employees.salary AS employees_salary 
+FROM employees 
+WHERE employees.id = ?
+ LIMIT ? OFFSET ?
+2025-11-06 11:46:30,923 [INFO] [cached since 418.1s ago] (1, 1, 0)
+2025-11-06 11:46:30,923 [INFO] Read employee for given id.
+2025-11-06 11:46:30,924 [INFO] SELECT employees.id AS employees_id, employees.name AS employees_name, employees.job_title AS employees_job_title, employees.salary AS employees_salary 
+FROM employees 
+WHERE employees.id = ?
+ LIMIT ? OFFSET ?
+2025-11-06 11:46:30,925 [INFO] [cached since 418.1s ago] (1, 1, 0)
+2025-11-06 11:46:30,926 [INFO] Read employee for given id.
+2025-11-06 11:46:30,927 [INFO] DELETE FROM employees WHERE employees.id = ?
+2025-11-06 11:46:30,927 [INFO] [generated in 0.00048s] (1,)
+2025-11-06 11:46:30,931 [INFO] COMMIT
+2025-11-06 11:46:30,939 [INFO] Employee Deleted Successfully
+2025-11-06 11:46:30,941 [INFO] 127.0.0.1 - - [06/Nov/2025 11:46:30] "DELETE /employees/1 HTTP/1.1" 200 -
+2025-11-06 11:46:43,226 [INFO] BEGIN (implicit)
+2025-11-06 11:46:43,227 [INFO] SELECT employees.id AS employees_id, employees.name AS employees_name, employees.job_title AS employees_job_title, employees.salary AS employees_salary 
+FROM employees
+2025-11-06 11:46:43,227 [INFO] [cached since 386.1s ago] ()
+2025-11-06 11:46:43,228 [INFO] Read all employees.
+2025-11-06 11:46:43,228 [INFO] ROLLBACK
+2025-11-06 11:46:43,229 [INFO] 127.0.0.1 - - [06/Nov/2025 11:46:43] "GET /employees HTTP/1.1" 200 -
+2025-11-06 11:47:37,605 [INFO] BEGIN (implicit)
+2025-11-06 11:47:37,606 [INFO] INSERT INTO employees (name, job_title, salary) VALUES (?, ?, ?)
+2025-11-06 11:47:37,607 [INFO] [cached since 484.8s ago] ('surya', 'postman', 4000.0)
+2025-11-06 11:47:37,609 [INFO] COMMIT
+2025-11-06 11:47:37,618 [INFO] Employee Added Successfully
+2025-11-06 11:47:37,619 [INFO] BEGIN (implicit)
+2025-11-06 11:47:37,619 [INFO] SELECT employees.id AS employees_id, employees.name AS employees_name, employees.job_title AS employees_job_title, employees.salary AS employees_salary 
+FROM employees 
+WHERE employees.id = ?
+2025-11-06 11:47:37,620 [INFO] [cached since 484.8s ago] (3,)
+2025-11-06 11:47:37,622 [INFO] SELECT employees.id AS employees_id, employees.name AS employees_name, employees.job_title AS employees_job_title, employees.salary AS employees_salary 
+FROM employees 
+WHERE employees.id = ?
+ LIMIT ? OFFSET ?
+2025-11-06 11:47:37,622 [INFO] [cached since 484.8s ago] (3, 1, 0)
+2025-11-06 11:47:37,623 [INFO] Read employee for given id.
+2025-11-06 11:47:40,813 [INFO] ROLLBACK
+2025-11-06 11:47:40,814 [INFO] 127.0.0.1 - - [06/Nov/2025 11:47:40] "[35m[1mPOST /employees HTTP/1.1[0m" 201 -
+2025-11-06 11:49:45,776 [INFO] BEGIN (implicit)
+2025-11-06 11:49:45,777 [INFO] SELECT employees.id AS employees_id, employees.name AS employees_name, employees.job_title AS employees_job_title, employees.salary AS employees_salary 
+FROM employees
+2025-11-06 11:49:45,778 [INFO] [cached since 568.6s ago] ()
+2025-11-06 11:49:45,779 [INFO] Read all employees.
+2025-11-06 11:49:45,779 [INFO] ROLLBACK
+2025-11-06 11:49:45,780 [INFO] 127.0.0.1 - - [06/Nov/2025 11:49:45] "GET /employees HTTP/1.1" 200 -
